@@ -1,4 +1,4 @@
-{
+{  "start":"node app.js",
   "name": "newsletter-signup",
   "version": "1.0.0",
   "description": "",
